@@ -22,7 +22,7 @@
 
 ## About me
 
-I'm a second-year CS student who builds full-stack products — not just side projects, but production systems with real users, live deployments, and real consequences when things break.
+I'm a fourth-year CS student who builds full-stack products — not just side projects, but production systems with real users, live deployments, and real consequences when things break.
 
 Currently interning at **Inreal Solutions** where I ship end-to-end features independently across two live websites. My stack is MERN, my mindset is ownership, and I care deeply about code that actually works in the real world — not just localhost.
 
