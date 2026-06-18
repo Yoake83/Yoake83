@@ -26,11 +26,11 @@ I'm a fourth-year CS student who builds full-stack products — not just side pr
 
 Currently interning at **Inreal Solutions** where I ship end-to-end features independently across two live websites. My stack is MERN, my mindset is ownership, and I care deeply about code that actually works in the real world — not just localhost.
 
-- 🔭 Currently building production features @ Inreal Solutions
-- 🧠 Obsessed with algorithms that solve real product problems
-- ⚡ I reduced a production app's page load time by **40%** — because performance is a feature
-- 🤖 Exploring LLMs and AI integrations (built a Claude-powered Q&A system)
-- 📍 Based in India · Open to remote internships
+-  Currently building production features @ Inreal Solutions
+-  Obsessed with algorithms that solve real product problems
+-  I reduced a production app's page load time by **40%** — because performance is a feature
+-  Exploring LLMs and AI integrations (built a Claude-powered Q&A system)
+-  Based in India · Open to remote internships
 
 ---
 
@@ -91,7 +91,7 @@ Currently interning at **Inreal Solutions** where I ship end-to-end features ind
 
 ## Projects
 
-### 🧠 TaskFlow
+###  TaskFlow
 > Full-stack task manager that auto-prioritizes tasks using Greedy algorithms, Priority Queue, and Knapsack DP
 
 - Smart scheduling, procrastination detection, Pomodoro focus mode
@@ -103,7 +103,7 @@ Currently interning at **Inreal Solutions** where I ship end-to-end features ind
 
 ---
 
-### 🎨 Collaborative Whiteboard
+###  Collaborative Whiteboard
 > Real-time collaborative whiteboard for seamless team interaction
 
 - Clerk authentication with workspace and organization support
@@ -114,7 +114,7 @@ Currently interning at **Inreal Solutions** where I ship end-to-end features ind
 
 ---
 
-### 📋 Contact Management System
+###  Contact Management System
 > Full-stack contact manager with secure auth and CRUD operations
 
 - JWT-based authentication and role-based access control
@@ -139,9 +139,9 @@ Currently interning at **Inreal Solutions** where I ship end-to-end features ind
 
 ## Certifications
 
-- 📊 **Graphs** — Algo University
-- 🏆 **Hackster 2025** — Certificate of Participation
-- 📋 **CaseForge 2025** — Case Study Competition (via Unstop)
+-  **Graphs** — Algo University
+-  **Hackster 2025** — Certificate of Participation
+-  **CaseForge 2025** — Case Study Competition (via Unstop)
 
 ---
 
