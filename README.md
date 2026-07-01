@@ -147,7 +147,7 @@ Currently interning at **Inreal Solutions** where I ship end-to-end features ind
 
 <div align="center">
 
-**CGPA: 8.54 · IIIT Senapati · B.Tech CSE 2023–27**
+**CGPA: 8.57 · IIIT Senapati · B.Tech CSE 2023–27**
 
 *Open to internship opportunities · sonidevika080@gmail.com*
 
