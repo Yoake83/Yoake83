@@ -18,7 +18,7 @@ Full stack dev, currently interning at **Inreal Solutions**, where I build and s
 A few things worth knowing:
 - Shipped a JWT + Google OAuth auth system end-to-end and got page load times from ~3s down to under 2s
 - Went from "why does this crash every week" to zero-crash production by actually hunting down the root causes instead of patching symptoms
-- Currently CGPA 8.57, third year, open to remote internships
+- Currently CGPA 8.57, fourth year, open to remote internships
 
 ---
 
