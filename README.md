@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./panda.svg" alt="Devika's panda mascot" width="360"/>
+
 
   <h1>Devika</h1>
   <h3>Full Stack Developer · B.Tech CSE @ IIIT Senapati</h3>
